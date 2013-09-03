@@ -50,10 +50,10 @@
     <orderEntry type="library" scope="PROVIDED" name="rdoc (v3.12.2, PIK: Ruby200@RailsTutorial4) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass (v3.2.10, PIK: Ruby200@RailsTutorial4) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass-rails (v4.0.0, PIK: Ruby200@RailsTutorial4) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sdoc (v0.3.2, PIK: Ruby200@RailsTutorial4) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sdoc (v0.3.20, PIK: Ruby200@RailsTutorial4) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sprockets (v2.10.0, PIK: Ruby200@RailsTutorial4) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sprockets-rails (v2.0.0, PIK: Ruby200@RailsTutorial4) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.3.7, PIK: Ruby200@RailsTutorial4) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.3.8, PIK: Ruby200@RailsTutorial4) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="thor (v0.18.1, PIK: Ruby200@RailsTutorial4) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="thread_safe (v0.1.2, PIK: Ruby200@RailsTutorial4) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tilt (v1.4.1, PIK: Ruby200@RailsTutorial4) [gem]" level="application" />

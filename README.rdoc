@@ -1,4 +1,11 @@
 == README
+New content added 9/3/13 per tutorial
+
+Ruby on Rails Tutorial: first_app (first application)
+
+This is the first application for the Ruby on Rails Tutorial (2d ed( by M Hartl
+
+Original content
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
